@@ -1974,7 +1974,7 @@ input, select, textarea {
 		}
 
 		.icon.featured {
-			color: #EA8A95;
+			color: #ff802c;
 			display: block;
 			margin: 0 0 1.5em 0;
 			cursor: default;
@@ -1987,7 +1987,6 @@ input, select, textarea {
 /* Wrappers */
 
 	.wrapper {
-		background-image: url("images/bg.png");
 		box-shadow: inset 0px 1px 0px 0px rgba(0, 0, 0, 0.05), inset 0px 2px 3px 0px rgba(0, 0, 0, 0.1);
 		padding: 8em 0 8em 0;
 		text-align: center;
@@ -1999,7 +1998,8 @@ input, select, textarea {
 		}
 
 		.wrapper.style2 {
-			background-color: #fafafa;
+			background-image: url("Untitled.png");
+			background-repeat: repeat;
 			text-shadow: 1px 1px 0px #fff;
 		}
 
