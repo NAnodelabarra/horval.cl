@@ -2015,11 +2015,16 @@ input, select, textarea {
 		}
 
 		.wrapper.style2 {
+			background-image: none;
+			background-color: #fff;
+		}
+/* 
+		.wrapper.style2 {
 			background-image: url("../img/Untitled.png");
 			background-repeat: repeat;
 			text-shadow: 1px 1px 0px #fff;
 		}
-
+*/
 		.wrapper.style3 {
 			background-color: #f4f4f4;
 			text-shadow: 1px 1px 0px #fff;
