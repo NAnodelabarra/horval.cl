@@ -1,8 +1,1 @@
-readme
-readme
-readme
-readme
-readme
-readme
-readme
-readme
+las imagenes de uso domiciaiario tienen que ser cuadradas

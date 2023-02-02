@@ -151,7 +151,7 @@ input, select, textarea {
 
 	h1, h2, h3, h4, h5, h6 {
 		color: #3e3e3e;
-		margin: 0 0 0.75em 0;
+		margin: 0 0 0.4em 0;
 	}
 
 	h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
@@ -164,11 +164,8 @@ input, select, textarea {
 	}
 
 	h1 {
-		font-weight: 400;
-		text-align: left;
+		font-weight: 800;
 		font-size: 1.8em;
-		letter-spacing: -0.015em;
-		color: #fafafa;
 	}
 
 		h1 strong {
@@ -202,7 +199,7 @@ input, select, textarea {
 		margin: 3em 0;
 	}
 
-	p, ul, ol, dl, table {
+	ul, ol, dl, table {
 		margin-bottom: 2em;
 	}
 
@@ -228,6 +225,13 @@ input, select, textarea {
 		}
 
 /* Container */
+
+
+
+	.verde-disponible{
+		color: rgb(0, 200, 13);
+	}
+
 
 	.container {
 		margin: 0 auto;
@@ -1953,6 +1957,17 @@ input, select, textarea {
 			width: auto;
 		}
 
+
+/* carousel */
+
+.carousel-main {
+	height: 40em;
+}
+
+.carousel-productos-industrial {
+	height: 29.75em;
+}
+
 /* Icons */
 
 	.icon {
@@ -2127,7 +2142,7 @@ input, select, textarea {
 	}
 
 	#top {
-		padding: 5em 0 10em 0;
+		padding: 0 0 0 0;
 		text-align: left;
 	}
 
@@ -2275,8 +2290,8 @@ input, select, textarea {
 			}
 
 			h1, h2, h3, h4, h5, h6 {
-				font-size: 1.25em;
-				margin: 0 0 0.4em 0;
+				font-size: 1.1em;
+				margin: 0 0 0.2em 0;
 			}
 
 			h1 {
