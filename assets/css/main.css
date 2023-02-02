@@ -236,7 +236,7 @@ input, select, textarea {
 	.container {
 		margin: 0 auto;
 		max-width: calc(100% - 50px);
-		width: 1200px;
+		width: 1400px;
 	}
 
 		.container.medium {
@@ -1587,6 +1587,8 @@ input, select, textarea {
 
 	table {
 		width: 100%;
+		font-size: 1.3em;
+		margin-top: 2em;
 	}
 
 	td {
@@ -1697,10 +1699,7 @@ input, select, textarea {
 		border: 0;
 		outline: 0;
 		cursor: pointer;
-		border-radius: 8px;
-		text-shadow: -1px -1px 0.5px rgba(0, 0, 0, 0.5);
 		overflow: hidden;
-		box-shadow: inset 0px 0px 0px 1px rgba(0, 0, 0, 0.5), inset 0px 2px 1px 0px rgba(255, 255, 255, 0.75);
 		background-color: #43B3E0;
 		padding: 1em 2.35em 1em 2.35em;
 		font-size: 1.1em;
@@ -1712,7 +1711,7 @@ input, select, textarea {
 		input[type="reset"]:hover,
 		button:hover,
 		.button:hover {
-			background-color: #43bff0;
+			background-color: #000000a7;
 			color: #fff !important;
 		}
 
@@ -1721,7 +1720,7 @@ input, select, textarea {
 		input[type="reset"]:active,
 		button:active,
 		.button:active {
-			background-color: #3BA8D3;
+			background-color: #000000a7;
 			top: 1px;
 		}
 
@@ -1957,16 +1956,21 @@ input, select, textarea {
 			width: auto;
 		}
 
+		.box.style3 {
+			vertical-align: middle;
+		}
 
 /* carousel */
 
 .carousel-main {
-	height: 40em;
+	height: 30em;
 }
 
+/* 
 .carousel-productos-industrial {
 	height: 29.75em;
 }
+ */
 
 /* Icons */
 
@@ -2142,7 +2146,7 @@ input, select, textarea {
 	}
 
 	#top {
-		padding: 0 0 0 0;
+		padding: 5em 0 0 0;
 		text-align: left;
 	}
 
