@@ -2,16 +2,16 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="575"
+   width="128"
    height="128"
-   viewBox="0 0 575 128"
+   viewBox="0 0 128 128"
    version="1.1"
    id="SVGRoot"
-   sodipodi:docname="logo-full.svg"
+   sodipodi:docname="Copia de etiqueta.svg.2023_02_24_10_40_33.0.svg"
    inkscape:version="1.2.2 (b0a8486, 2022-12-01)"
-   inkscape:export-filename="letter-size.png"
-   inkscape:export-xdpi="96"
-   inkscape:export-ydpi="96"
+   inkscape:export-filename="c-pfp.png"
+   inkscape:export-xdpi="768"
+   inkscape:export-ydpi="768"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -27,13 +27,13 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      showgrid="true"
-     inkscape:zoom="0.5471774"
-     inkscape:cx="591.21594"
-     inkscape:cy="603.09508"
+     inkscape:zoom="0.77382574"
+     inkscape:cx="177.68858"
+     inkscape:cy="117.59754"
      inkscape:window-width="1920"
-     inkscape:window-height="966"
-     inkscape:window-x="0"
-     inkscape:window-y="23"
+     inkscape:window-height="426"
+     inkscape:window-x="-9"
+     inkscape:window-y="481"
      inkscape:window-maximized="0"
      inkscape:current-layer="layer1">
     <inkscape:grid
@@ -120,44 +120,55 @@
      inkscape:label="Capa 1"
      inkscape:groupmode="layer"
      id="layer1">
-    <path
-       id="path3659"
-       style="fill:#ff7f00;stroke-width:2.14104;fill-opacity:1"
-       d="m 65,11.5 -35,10 35,10 v 85 l 35,-10 V 82.267578 C 90.733079,82.847437 82.665387,77.677478 80.527344,69.789062 78.013182,60.406457 84.667672,50.471068 95.390625,47.597656 96.903291,47.207248 98.450191,46.972592 100,46.898438 V 21.5 Z"
-       sodipodi:nodetypes="ccccccccccc" />
-    <ellipse
-       style="fill:#ff7f00;fill-opacity:1;stroke:none;stroke-width:0.755234;stroke-dasharray:none"
-       id="path419"
-       cx="55.973289"
-       cy="31.244543"
-       rx="7.5385513"
-       ry="6.5998521"
-       transform="rotate(15)" />
-    <ellipse
-       style="fill:#ff7f00;fill-opacity:1;stroke:none;stroke-width:0.755234;stroke-dasharray:none"
-       id="path419-8"
-       cx="62.184944"
-       cy="54.426758"
-       rx="7.5385513"
-       ry="6.5998521"
-       transform="rotate(15)" />
-    <ellipse
-       style="fill:#ff7f00;fill-opacity:1;stroke:none;stroke-width:0.755234;stroke-dasharray:none"
-       id="path419-3"
-       cx="68.396599"
-       cy="77.609001"
-       rx="7.5385513"
-       ry="6.5998521"
-       transform="rotate(15)" />
+    <rect
+       style="fill:#ffa500;stroke-dasharray:1, 1;fill-opacity:1"
+       id="rect421"
+       width="180"
+       height="180"
+       x="-20"
+       y="-20" />
+    <g
+       id="g5778">
+      <path
+         id="path3659-9"
+         style="fill:#ffa500;fill-opacity:1;stroke-width:2.14104"
+         d="m 64,11.5 -35,10 35,10 v 85 l 35,-10 V 82.267578 C 89.733079,82.847437 81.665387,77.677478 79.527344,69.789062 77.013182,60.406457 83.667672,50.471068 94.390625,47.597656 95.903291,47.207248 97.450191,46.972592 99,46.898438 V 21.5 Z"
+         sodipodi:nodetypes="ccccccccccc" />
+      <ellipse
+         style="fill:#ffa500;fill-opacity:1;stroke:none;stroke-width:0.755234;stroke-dasharray:none"
+         id="path419-38"
+         cx="55.007362"
+         cy="31.503351"
+         rx="7.5385513"
+         ry="6.5998521"
+         transform="rotate(15)" />
+      <ellipse
+         style="fill:#ffa500;fill-opacity:1;stroke:none;stroke-width:0.755234;stroke-dasharray:none"
+         id="path419-8-0"
+         cx="61.219017"
+         cy="54.685574"
+         rx="7.5385513"
+         ry="6.5998521"
+         transform="rotate(15)" />
+      <ellipse
+         style="fill:#ffa500;fill-opacity:1;stroke:none;stroke-width:0.755234;stroke-dasharray:none"
+         id="path419-3-2"
+         cx="67.430672"
+         cy="77.867821"
+         rx="7.5385513"
+         ry="6.5998521"
+         transform="rotate(15)" />
+    </g>
     <text
        xml:space="preserve"
-       id="text475"
-       style="font-size:109.333px;font-family:sans-serif;-inkscape-font-specification:sans-serif;white-space:pre;shape-inside:url(#rect477);display:inline;fill:#ff7f00;stroke-width:1.882;fill-opacity:1"
-       transform="matrix(0.95879182,0,0,0.96068417,3.9734234,-4.6484328)"><tspan
-         x="115"
-         y="109.74781"
-         id="tspan1952"><tspan
-           style="font-weight:800;font-family:'MADE TOMMY';-inkscape-font-specification:'MADE TOMMY Ultra-Bold'"
-           id="tspan1950">HORVAL</tspan></tspan></text>
+       style="font-size:64px;font-family:'MADE TOMMY';-inkscape-font-specification:'MADE TOMMY';text-align:justify;fill:#ffffff;stroke-dasharray:1, 1"
+       x="41.152"
+       y="86.367996"
+       id="text424"><tspan
+         sodipodi:role="line"
+         id="tspan422"
+         x="41.152"
+         y="86.367996"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:64px;font-family:'MADE TOMMY';-inkscape-font-specification:'MADE TOMMY Ultra-Bold'">C</tspan></text>
   </g>
 </svg>

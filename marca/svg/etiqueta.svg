@@ -7,11 +7,11 @@
    viewBox="0 0 128 128"
    version="1.1"
    id="SVGRoot"
-   sodipodi:docname="icono.svg"
+   sodipodi:docname="etiqueta-margen.svg"
    inkscape:version="1.2.2 (b0a8486, 2022-12-01)"
-   inkscape:export-filename="icono-sin-fondo.png"
-   inkscape:export-xdpi="810"
-   inkscape:export-ydpi="810"
+   inkscape:export-filename="fondo-etiqueta.png"
+   inkscape:export-xdpi="400"
+   inkscape:export-ydpi="400"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -27,13 +27,13 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      showgrid="true"
-     inkscape:zoom="2.1887097"
-     inkscape:cx="138.66617"
-     inkscape:cy="-34.723655"
+     inkscape:zoom="0.77382574"
+     inkscape:cx="253.287"
+     inkscape:cy="117.59754"
      inkscape:window-width="1920"
-     inkscape:window-height="966"
+     inkscape:window-height="426"
      inkscape:window-x="0"
-     inkscape:window-y="23"
+     inkscape:window-y="488"
      inkscape:window-maximized="0"
      inkscape:current-layer="layer1">
     <inkscape:grid
@@ -120,34 +120,37 @@
      inkscape:label="Capa 1"
      inkscape:groupmode="layer"
      id="layer1">
-    <path
-       id="path3659-9"
-       style="fill:#ff7f00;fill-opacity:1;stroke-width:2.14104"
-       d="m 64,11.5 -35,10 35,10 v 85 l 35,-10 V 82.267578 C 89.733079,82.847437 81.665387,77.677478 79.527344,69.789062 77.013182,60.406457 83.667672,50.471068 94.390625,47.597656 95.903291,47.207248 97.450191,46.972592 99,46.898438 V 21.5 Z"
-       sodipodi:nodetypes="ccccccccccc" />
-    <ellipse
-       style="fill:#ff7f00;fill-opacity:1;stroke:none;stroke-width:0.755234;stroke-dasharray:none"
-       id="path419-38"
-       cx="55.007362"
-       cy="31.503351"
-       rx="7.5385513"
-       ry="6.5998521"
-       transform="rotate(15)" />
-    <ellipse
-       style="fill:#ff7f00;fill-opacity:1;stroke:none;stroke-width:0.755234;stroke-dasharray:none"
-       id="path419-8-0"
-       cx="61.219017"
-       cy="54.685574"
-       rx="7.5385513"
-       ry="6.5998521"
-       transform="rotate(15)" />
-    <ellipse
-       style="fill:#ff7f00;fill-opacity:1;stroke:none;stroke-width:0.755234;stroke-dasharray:none"
-       id="path419-3-2"
-       cx="67.430672"
-       cy="77.867821"
-       rx="7.5385513"
-       ry="6.5998521"
-       transform="rotate(15)" />
+    <g
+       id="g5778">
+      <path
+         id="path3659-9"
+         style="fill:#ffa500;fill-opacity:1;stroke-width:2.14104"
+         d="m 64,11.5 -35,10 35,10 v 85 l 35,-10 V 82.267578 C 89.733079,82.847437 81.665387,77.677478 79.527344,69.789062 77.013182,60.406457 83.667672,50.471068 94.390625,47.597656 95.903291,47.207248 97.450191,46.972592 99,46.898438 V 21.5 Z"
+         sodipodi:nodetypes="ccccccccccc" />
+      <ellipse
+         style="fill:#ffa500;fill-opacity:1;stroke:none;stroke-width:0.755234;stroke-dasharray:none"
+         id="path419-38"
+         cx="55.007362"
+         cy="31.503351"
+         rx="7.5385513"
+         ry="6.5998521"
+         transform="rotate(15)" />
+      <ellipse
+         style="fill:#ffa500;fill-opacity:1;stroke:none;stroke-width:0.755234;stroke-dasharray:none"
+         id="path419-8-0"
+         cx="61.219017"
+         cy="54.685574"
+         rx="7.5385513"
+         ry="6.5998521"
+         transform="rotate(15)" />
+      <ellipse
+         style="fill:#ffa500;fill-opacity:1;stroke:none;stroke-width:0.755234;stroke-dasharray:none"
+         id="path419-3-2"
+         cx="67.430672"
+         cy="77.867821"
+         rx="7.5385513"
+         ry="6.5998521"
+         transform="rotate(15)" />
+    </g>
   </g>
 </svg>

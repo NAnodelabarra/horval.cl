@@ -7,11 +7,11 @@
    viewBox="0 0 485 128"
    version="1.1"
    id="SVGRoot"
-   sodipodi:docname="titulo.svg"
+   sodipodi:docname="palabra-margen.svg"
    inkscape:version="1.2.2 (b0a8486, 2022-12-01)"
-   inkscape:export-filename="letter-size.png"
-   inkscape:export-xdpi="96"
-   inkscape:export-ydpi="96"
+   inkscape:export-filename="fondo-palabra.png"
+   inkscape:export-xdpi="400"
+   inkscape:export-ydpi="400"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -28,14 +28,15 @@
      inkscape:document-units="px"
      showgrid="true"
      inkscape:zoom="0.77382574"
-     inkscape:cx="454.88278"
-     inkscape:cy="211.93402"
+     inkscape:cx="202.88806"
+     inkscape:cy="70.429293"
      inkscape:window-width="1920"
-     inkscape:window-height="966"
-     inkscape:window-x="0"
-     inkscape:window-y="23"
+     inkscape:window-height="415"
+     inkscape:window-x="40"
+     inkscape:window-y="630"
      inkscape:window-maximized="0"
-     inkscape:current-layer="layer1">
+     inkscape:current-layer="layer1"
+     showguides="true">
     <inkscape:grid
        type="xygrid"
        id="grid128"
@@ -120,15 +121,20 @@
      inkscape:label="Capa 1"
      inkscape:groupmode="layer"
      id="layer1">
-    <text
-       xml:space="preserve"
-       id="text475"
-       style="font-size:109.333px;font-family:sans-serif;-inkscape-font-specification:sans-serif;white-space:pre;shape-inside:url(#rect477);display:inline;fill:#ff7f00;stroke-width:1.882;fill-opacity:1"
-       transform="matrix(0.95879182,0,0,0.96068417,-86.026577,-4.6484328)"><tspan
-         x="115"
-         y="109.74781"
-         id="tspan1204"><tspan
-           style="font-weight:800;font-family:'MADE TOMMY';-inkscape-font-specification:'MADE TOMMY Ultra-Bold'"
-           id="tspan1202">HORVAL</tspan></tspan></text>
+    <g
+       id="g5676"
+       transform="translate(-0.35203105,-0.07499997)"
+       style="fill:#ffa500;fill-opacity:1">
+      <text
+         xml:space="preserve"
+         id="text475"
+         style="font-size:109.333px;font-family:sans-serif;-inkscape-font-specification:sans-serif;white-space:pre;shape-inside:url(#rect477);display:inline;fill:#ffa500;fill-opacity:1;stroke-width:1.882"
+         transform="matrix(0.95879182,0,0,0.96068417,-86.026577,-4.6484328)"><tspan
+           x="115"
+           y="109.74781"
+           id="tspan6603"><tspan
+             style="font-weight:800;font-family:'MADE TOMMY';-inkscape-font-specification:'MADE TOMMY Ultra-Bold'"
+             id="tspan6601">HORVAL</tspan></tspan></text>
+    </g>
   </g>
 </svg>

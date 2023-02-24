@@ -1973,7 +1973,8 @@ input, select, textarea {
 /* carousel */
 
 .carousel-main {
-	height: 30em;
+	margin-top: 5em;
+	height: 35em;
 }
 .carousel-control-next, .carousel-control-prev {
 	width: 10%;
@@ -2105,7 +2106,7 @@ input, select, textarea {
 /* Nav */
 
 	#nav {
-		background-color: #282828;
+		background-color: #ffffff;
 		text-align: center;
 		position: fixed;
 		left: 0;
@@ -2113,8 +2114,9 @@ input, select, textarea {
 		width: 100%;
 		z-index: 10000;
 		cursor: default;
-		height: 5em;
-		line-height: 5em;
+		height: 6em;
+		line-height: 6em;
+		
 	}
 
 		#nav ul {
@@ -2135,24 +2137,24 @@ input, select, textarea {
 			transition: background-color .2s ease-in-out;
 			position: relative;
 			display: block;
-			color: #fff;
+			color: #000000;
 			text-decoration: none;
 			outline: 0;
 			font-weight: 600;
 			border-radius: 8px;
-			color: #fff;
+			color: #000000;
 			height: 2.5em;
 			line-height: 2.5em;
 			padding: 0 1.25em;
 		}
 
 			#nav a:hover {
-				color: #fff !important;
-				background: #383838;
+				color: #000000 !important;
+				background: #c9c9c9;
 			}
 
 			#nav a.active {
-				background: #484848;
+				background: #c5c5c5;
 			}
 
 				#nav a.active:before {
@@ -2166,6 +2168,27 @@ input, select, textarea {
 					border-right: solid 0.75em transparent;
 					border-top: solid 0.6em #282828;
 				}
+
+				
+				#sub {
+					padding: 0;
+					margin: 0;
+					background-color: #f28500;
+					color: #fff;
+					height: 2.5em;
+				}
+
+				#sub-phone {
+					left: 0;
+					width: auto;
+					float: left;
+				}
+				#sub-mail {
+					right: 0;
+					width: auto;
+					float: right;
+				}
+
 
 /* Articles */
 
