@@ -1,8 +1,3 @@
-
-
-
-
-
 # Foobar
 
 Foobar is a Python library for dealing with word pluralization.
@@ -12,21 +7,27 @@ Foobar is a Python library for dealing with word pluralization.
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 
 ```bash
-├── assets (contenido invariable) IGNORE
-│   ├── css
-│   ├── img
-│   ├── js
-│   ├── sass
-│   ├── webfonts
-├── fotos
-│   ├── css
-│   │   ├── **/*.css
-│   ├── images
-│   ├── js
-│   ├── index.html
-├── originales (respaldo de fotos originales sin editar)
-├── otros 
-└── readme
+├── assets		---------- no modificar
+│   ├── css		---------- no modificar
+│   ├── img		---------- imagenes no variables
+│   │   ├── imago	---------- tab icon
+│   │   ├── marcas	---------- marcas asociadas
+│   │   ├── social	---------- iconos redes sociales
+│   │   └── texturas	---------- texturas de fondos
+│   ├── js		---------- codigo
+│   ├── sass		---------- codigo
+│   └── webfonts	---------- codigo
+├── fichas		--- FICHAS TECNICAS
+├── fotos		--- FOTOS CONTENIDO
+│   ├── camiones	--- fotos camiones
+│   ├── carusel		--- fotos carusel principal
+│   ├── originales	--- fotos originales formato ssas iphone (incompatible)
+│   ├── domiciliario	--- fotos producto domiciliario
+│   └── industrial	--- fotos producto industrial
+├── instagram		------ CONTENIDO INSTAGRAM
+├── index 		---------- CODIGO PRINCIPAL PAGINA
+├── marca 		---------- respaldo marca horval
+└── readme		---------- explicacion
 ```
 
 ## Usage
@@ -54,10 +55,6 @@ Please make sure to update tests as appropriate.
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
-
-
-
-
 
 <br>
 <br>
