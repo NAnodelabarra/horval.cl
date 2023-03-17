@@ -1,22 +1,22 @@
-# Foobar
+# Pagina web Horval LTDA
 
-Foobar is a Python library for dealing with word pluralization.
+Siegue en desarrollo. No se ha separado el contenido.
 
 ## Estructura de carpetas
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 
 ```bash
-├── assets		---------- no modificar
-│   ├── css		---------- no modificar
-│   ├── img		---------- imagenes no variables
-│   │   ├── imago	---------- tab icon
-│   │   ├── marcas	---------- marcas asociadas
-│   │   ├── social	---------- iconos redes sociales
-│   │   └── texturas	---------- texturas de fondos
-│   ├── js		---------- codigo
-│   ├── sass		---------- codigo
-│   └── webfonts	---------- codigo
+├── assets		-------------------- no modificar
+│   ├── css		-------------------- no modificar
+│   ├── img		-------------------- imagenes no variables
+│   │   ├── imago	-------------------- tab icon
+│   │   ├── marcas	-------------------- marcas asociadas
+│   │   ├── social	-------------------- iconos redes sociales
+│   │   └── texturas	-------------------- texturas de fondos
+│   ├── js		-------------------- codigo
+│   ├── sass		-------------------- codigo
+│   └── webfonts	-------------------- codigo
 ├── fichas		--- FICHAS TECNICAS
 ├── fotos		--- FOTOS CONTENIDO
 │   ├── camiones	--- fotos camiones
@@ -24,52 +24,51 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 │   ├── originales	--- fotos originales formato ssas iphone (incompatible)
 │   ├── domiciliario	--- fotos producto domiciliario
 │   └── industrial	--- fotos producto industrial
-├── instagram		------ CONTENIDO INSTAGRAM
-├── index 		---------- CODIGO PRINCIPAL PAGINA
-├── marca 		---------- respaldo marca horval
-└── readme		---------- explicacion
+├── instagram		--- CONTENIDO INSTAGRAM
+├── index 		----------- CODIGO PRINCIPAL PAGINA
+├── marca 		-------------------- respaldo marca horval
+└── readme		-------------------- explicacion
 ```
 
-## Usage
+## Reglas de uso
 
-```python
-import foobar
+##### 1 Sec. Inicio
 
-# returns 'words'
-foobar.pluralize('word')
+- Las imagenes del carusel tienne que ser de 000 px de alto, con relacion aspecto 0:0
+- ...
 
-# returns 'geese'
-foobar.pluralize('goose')
+##### 2 Sec. Domiciaiario
 
-# returns 'phenomenon'
-foobar.singularize('phenomena')
-```
+- Las imagenes tienen que ser cuadradas. Relacion aspecto 1:1.
+- ...
 
-## Contributing
+##### 3 Sec. Industrial
 
-Pull requests are welcome. For major changes, please open an issue first
-to discuss what you would like to change.
+- ...
 
-Please make sure to update tests as appropriate.
+##### 3 Sec. Contacto
+
+- ...
 
 ## License
 
+...
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+## Recursos
+
 [MIT](https://choosealicense.com/licenses/mit/)
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-///// ignore /////
+formato readme: https://www.makeareadme.com
 
-https://www.makeareadme.com
-
-Sobre la pagina web
-
-las imagenes de uso domiciaiario tienen que ser cuadradas
+buscar nombres iconos: https://fontawesome.com/v4/icons/
