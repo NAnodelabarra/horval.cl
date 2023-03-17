@@ -98,10 +98,14 @@ input, select, textarea {
 
 	body, input, textarea, select {
 		font-family: 'Open Sans', sans-serif;
-		line-height: 1.85em;
+		line-height: 1.5em;
 		color: #888;
 		font-weight: 300;
-		font-size: 13pt;
+		font-size: 12pt;
+	}
+	#top {
+		line-height: 0.5em;
+		font-size: 10pt;
 	}
 
 	a {
@@ -214,6 +218,7 @@ input, select, textarea {
 
 	p {
 		font-weight: 600;
+		font-size: 10pt;
 	}
 
 	header {
@@ -2115,7 +2120,20 @@ input, select, textarea {
 		cursor: default;
 		height: 6em;
 		line-height: 6em;
-		
+	}
+	
+	#sub {
+		color: #fff;
+		background-color: #FFA500;
+		position: fixed;
+		left: 0;
+		top: 6em;
+		width: 100%;
+		z-index: 10000;
+		padding: 0;
+		margin: 0;
+		height: 2.5em;
+		line-height: 2.5em;
 	}
 
 		#nav ul {
@@ -2169,24 +2187,13 @@ input, select, textarea {
 				}
 
 				
-				#sub {
-					padding: 0;
-					margin: 0;
-					background-color: #FFA500;
-					color: #fff;
-					height: 2.5em;
-				}
 
-				#sub-phone {
-					left: 0;
-					width: auto;
-					float: left;
-				}
-				#sub-mail {
-					right: 0;
-					width: auto;
-					float: right;
-				}
+	#sub-phone {
+		left: 0;
+	}
+	#sub-mail {
+		right: 0;
+	}
 
 
 /* Articles */
