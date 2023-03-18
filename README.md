@@ -61,16 +61,16 @@ El archivo **index.html** maneja los contenidos de la pagina, modificar con cuid
 
 - ...
 
-`<br>`
-`<br>`
-`<br>`
-`<br>`
-`<br>`
-`<br>`
-`<br>`
-`<br>`
-`<br>`
-`<br>`
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ## Recursos
 
