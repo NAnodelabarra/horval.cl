@@ -12,7 +12,7 @@ No modificar carpeta assets.
 El contenido variable para uso comun se encuentra en las carpetas **Fichas**, **Fotos**, **Instagram**.
 
 **Fichas**: meter todas las fichas tecnicas.
-
+::text::
 **Fotos**: meter todas las fotos organizadas por productos. Las fotos elejidas para los caruseles estan en sus carpetas y deben mantener sus nombres.
 
 **Instagram**: contenido mixto para redes sociales.
