@@ -63,19 +63,10 @@ El archivo **index.html** maneja los contenidos de la pagina, modificar con cuid
 
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 ## Recursos
 
-[MIT](https://choosealicense.com/licenses/mit/)
+buscar nombres iconos: https://fontawesome.com/v4/icons/
 
 formato readme: https://www.makeareadme.com
 
-buscar nombres iconos: https://fontawesome.com/v4/icons/
