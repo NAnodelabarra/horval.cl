@@ -7,14 +7,16 @@ Siegue en desarrollo. No se ha separado el contenido. No usa js.
 
 ## Estructura de carpetas
 
-No cambiar carpeta assets.
-El contenido variable para uso comun se encuentra en las carpetas Fichas, Fotos, Instagram.
+No modificar carpeta assets.
+El contenido variable para uso comun se encuentra en las carpetas **Fichas**, **Fotos**, **Instagram**.
 
-**Fichas**: meter todas las fichas tecnicas
+**Fichas**: meter todas las fichas tecnicas.
 
-`<u>`Fotos `</u>`: meter todas las fotos organizadas por productos. Las fotos elejidas para los caruseles estan en sus carpetas.
+**Fotos**: meter todas las fotos organizadas por productos. Las fotos elejidas para los caruseles estan en sus carpetas y deben mantener sus nombres.
 
-Instagram: contenido mixto para redes sociales.
+**Instagram**: contenido mixto para redes sociales.
+
+El archivo **index.html** maneja los contenidos de la pagina, modificar con cuidado.
 
 ```bash
 ├── assets		-------------------- no modificar
