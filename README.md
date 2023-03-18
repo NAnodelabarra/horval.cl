@@ -34,7 +34,6 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 
 ##### 1 Sec. Inicio
 
-- Las imagenes del carusel tienne que ser de 720 px de alto.
 - ...
 
 ##### 2 Sec. Domiciaiario
