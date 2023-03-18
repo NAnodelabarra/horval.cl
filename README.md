@@ -1,10 +1,20 @@
 # Pagina web Horval LTDA
 
-Siegue en desarrollo. No se ha separado el contenido.
+Siegue en desarrollo. No se ha separado el contenido. No usa js.
+
+
+*Para ver los últimos cambios más rápido, entrar en ventana incógnita.
 
 ## Estructura de carpetas
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+No cambiar carpeta assets.
+El contenido variable para uso comun se encuentra en las carpetas Fichas, Fotos, Instagram.
+
+**Fichas**: meter todas las fichas tecnicas
+
+`<u>`Fotos `</u>`: meter todas las fotos organizadas por productos. Las fotos elejidas para los caruseles estan en sus carpetas.
+
+Instagram: contenido mixto para redes sociales.
 
 ```bash
 ├── assets		-------------------- no modificar
@@ -49,20 +59,16 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 
 - ...
 
-## License
-
-...
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+`<br>`
+`<br>`
+`<br>`
+`<br>`
+`<br>`
+`<br>`
+`<br>`
+`<br>`
+`<br>`
+`<br>`
 
 ## Recursos
 
